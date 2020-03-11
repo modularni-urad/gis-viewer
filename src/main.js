@@ -6,10 +6,7 @@ store.dispatch('loadlayer', 2)
 store.dispatch('loadlayer', 3)
 store.dispatch('loadlayer', 4)
 store.dispatch('loadlayer', 5)
-
-const query = { val: { lat: 49.414016, lng: 14.658385, z: 13 } }
-
-
+store.dispatch('loadlayer', 6)
 
 // new Vue({
 //   store,
